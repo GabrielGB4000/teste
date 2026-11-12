@@ -1,0 +1,119 @@
+body {
+    background-color: #FFFAF2;
+}
+
+body img.primeiro {
+    width: 1900px;
+    height: 560px;
+    position: relative;
+    top: 100px;
+}
+
+div.topo h1 {
+    font-family: 'Oswald', sans-serif;
+    color: #452305;
+    font-size: 30px;
+    position: relative;
+    left: 130px;
+    bottom: 2250px;
+}
+
+div.topo button {
+    background-color: transparent;
+    border: none;
+    color: black;
+    cursor: pointer;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 1450px;
+    bottom: 2300px;
+}
+
+div.imagem p.primeiro {
+    color: #C9874D;
+    position: relative;
+    bottom: 660px;
+    left: 120px;
+    font-size: 20px;
+}
+
+div.imagem p.segundo {
+    color: white;
+    position: relative;
+    bottom: 720px;
+    left: 120px;
+    font-size: 80px;
+    font-family: 'Oswald', sans-serif;
+}
+
+div.imagem p.terceiro {
+    color: white;
+    position: relative;
+    bottom: 780px;
+    left: 120px;
+    font-size: 20px;
+}
+
+div.imagem button {
+    background-color: #AD713D;
+    border: 2px #AD713D solid;
+    border-radius: 5px;
+    padding: 15px;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    cursor: pointer;
+    font-size: 15px;
+    position: relative;
+    bottom: 780px;
+    left: 120px;
+}
+
+div.cardapio p.primeiro {
+    text-align: center;
+    color: #C9874D;
+    position: relative;
+    bottom: 600px;
+}
+
+div.cardapio p.segundo {
+    text-align: center;
+    color: #452305;
+    position: relative;
+    bottom: 640px;
+    font-size: 45px;
+    font-family: 'Oswald', sans-serif;
+}
+
+div.cardapio p.terceiro {
+    text-align: center;
+    position: relative;
+    bottom: 680px;
+    font-size: 20px;
+    color: #453B34;
+}
+
+body img.segundo {
+    width: 450px;
+    height: 300px;
+    position: relative;
+    bottom: -400px;
+    left: 120px;
+    border-radius: 8px;
+}
+
+body img.terceiro {
+    width: 500px;
+    height: 200px;
+    position: relative;
+    top: 2000px;
+    border-radius: 100px;
+}
+
+body img.quarto {
+     width: 500px;
+    height: 200px;
+    position: relative;
+    top: 3000px;
+    border-radius: 100px;
+}
